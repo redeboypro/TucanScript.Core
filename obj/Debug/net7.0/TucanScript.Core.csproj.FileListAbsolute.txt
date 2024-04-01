@@ -1,0 +1,11 @@
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\bin\Debug\net7.0\TucanScript.Core.deps.json
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\bin\Debug\net7.0\TucanScript.Core.dll
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\bin\Debug\net7.0\TucanScript.Core.pdb
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.AssemblyInfoInputs.cache
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.AssemblyInfo.cs
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.csproj.CoreCompileInputs.cache
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.dll
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\refint\TucanScript.Core.dll
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\TucanScript.Core.pdb
+C:\Users\redeb\RiderProjects\TucanScript.Core\TucanScript.Core\obj\Debug\net7.0\ref\TucanScript.Core.dll
